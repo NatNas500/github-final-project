@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Natali
+   # NatNas500
 
    # Input:
    # p, principal amount
